@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, it's Mahnoor👋
 
 ### **👤About me**
 I'm a CS student at UBIT, University of Karachi — passionate about learning, building, and solving problems one line of code at a time.
