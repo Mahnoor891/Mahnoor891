@@ -1,9 +1,10 @@
 ## Hi there 👋
 
-I'm a CS student at UBIT, University of Karachi — passionate about learning, building, and solving problems one line of code at a time. Always curious, always growing.
-|------------------------------------------------------------------------------------------------------------------------|
-### **About me** 
-🎓
+### **About me**
+I'm a CS student at UBIT, University of Karachi — passionate about learning, building, and solving problems one line of code at a time.
+
+Always curious, always growing.
+ 
 BSc Computer Science
 UBIT · University of Karachi
 📍
